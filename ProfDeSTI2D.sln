@@ -159,6 +159,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logo", "Logo", "{08BD3750-C
 		..\Installation Globale\Installation Globale\bin\Debug\netcoreapp3.1\STI2D\Logo\Logo.TXT = ..\Installation Globale\Installation Globale\bin\Debug\netcoreapp3.1\STI2D\Logo\Logo.TXT
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Le Modèle", "Le Modèle", "{DB3E7866-E8EC-4E27-9988-C0C2F55FC85E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -178,6 +180,7 @@ Global
 		{B751FC1F-B1C9-4C31-91FC-EF084EB0D682} = {296AEC6F-2FD0-43CC-9645-01A39DBEC57B}
 		{AA6227D9-29BF-4833-96C3-B6B0FE1FE920} = {B751FC1F-B1C9-4C31-91FC-EF084EB0D682}
 		{08BD3750-CC04-4181-B6FB-E082E8011F17} = {AA6227D9-29BF-4833-96C3-B6B0FE1FE920}
+		{DB3E7866-E8EC-4E27-9988-C0C2F55FC85E} = {296AEC6F-2FD0-43CC-9645-01A39DBEC57B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ADCBD04C-F188-48EC-96B9-137DADD57F89}

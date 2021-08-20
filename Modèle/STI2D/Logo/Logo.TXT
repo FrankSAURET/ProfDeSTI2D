@@ -1,0 +1,3 @@
+Un logo par spécialité est imposé. Même nom et même format de fichier. Pour avoir le même logo pour toutes les spécialités, il faut le dupliquer.
+
+La taille de l'image est sans importance.
