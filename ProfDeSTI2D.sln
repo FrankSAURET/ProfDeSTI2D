@@ -16,12 +16,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{C2483F
 		Images\rubanprof.png = Images\rubanprof.png
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modèle", "Modèle", "{2C8CACBA-060F-450E-9E67-02919185437E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modèle", "Modèle", "{B751FC1F-B1C9-4C31-91FC-EF084EB0D682}"
 	ProjectSection(SolutionItems) = preProject
-		..\Installation Globale\Installation Globale\bin\Debug\netcoreapp3.1\STI2D.dotm = ..\Installation Globale\Installation Globale\bin\Debug\netcoreapp3.1\STI2D.dotm
+		..\STI2D.dotm = ..\STI2D.dotm
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "STI2D", "STI2D", "{0E1D2CF6-FA43-4657-91CF-0333E94FE48F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "STI2D", "STI2D", "{AA6227D9-29BF-4833-96C3-B6B0FE1FE920}"
 	ProjectSection(SolutionItems) = preProject
 		..\Installation Globale\Installation Globale\bin\Debug\netcoreapp3.1\STI2D\actions mécaniques.png = ..\Installation Globale\Installation Globale\bin\Debug\netcoreapp3.1\STI2D\actions mécaniques.png
 		..\Installation Globale\Installation Globale\bin\Debug\netcoreapp3.1\STI2D\AI2.png = ..\Installation Globale\Installation Globale\bin\Debug\netcoreapp3.1\STI2D\AI2.png
@@ -146,7 +146,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "STI2D", "STI2D", "{0E1D2CF6
 		..\Installation Globale\Installation Globale\bin\Debug\netcoreapp3.1\STI2D\wifi.png = ..\Installation Globale\Installation Globale\bin\Debug\netcoreapp3.1\STI2D\wifi.png
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logo", "Logo", "{972B6ACC-AEBB-4244-B1D4-B3E38B3A2EB7}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logo", "Logo", "{08BD3750-CC04-4181-B6FB-E082E8011F17}"
 	ProjectSection(SolutionItems) = preProject
 		..\Installation Globale\Installation Globale\bin\Debug\netcoreapp3.1\STI2D\Logo\Logo - 2I2D.png = ..\Installation Globale\Installation Globale\bin\Debug\netcoreapp3.1\STI2D\Logo\Logo - 2I2D.png
 		..\Installation Globale\Installation Globale\bin\Debug\netcoreapp3.1\STI2D\Logo\Logo - AC.png = ..\Installation Globale\Installation Globale\bin\Debug\netcoreapp3.1\STI2D\Logo\Logo - AC.png
@@ -175,9 +175,9 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C2483F69-F655-4FD3-8493-FAE397A108A8} = {296AEC6F-2FD0-43CC-9645-01A39DBEC57B}
-		{2C8CACBA-060F-450E-9E67-02919185437E} = {296AEC6F-2FD0-43CC-9645-01A39DBEC57B}
-		{0E1D2CF6-FA43-4657-91CF-0333E94FE48F} = {2C8CACBA-060F-450E-9E67-02919185437E}
-		{972B6ACC-AEBB-4244-B1D4-B3E38B3A2EB7} = {0E1D2CF6-FA43-4657-91CF-0333E94FE48F}
+		{B751FC1F-B1C9-4C31-91FC-EF084EB0D682} = {296AEC6F-2FD0-43CC-9645-01A39DBEC57B}
+		{AA6227D9-29BF-4833-96C3-B6B0FE1FE920} = {B751FC1F-B1C9-4C31-91FC-EF084EB0D682}
+		{08BD3750-CC04-4181-B6FB-E082E8011F17} = {AA6227D9-29BF-4833-96C3-B6B0FE1FE920}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ADCBD04C-F188-48EC-96B9-137DADD57F89}
