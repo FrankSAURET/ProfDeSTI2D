@@ -70,7 +70,6 @@
         '
         'TabProf
         '
-        Me.TabProf.ControlId.ControlIdType = Microsoft.Office.Tools.Ribbon.RibbonControlIdType.Office
         Me.TabProf.Groups.Add(Me.GroupMath)
         Me.TabProf.Groups.Add(Me.GroupMiseEnForme)
         Me.TabProf.Groups.Add(Me.GroupProf)
