@@ -1,5 +1,6 @@
-# <div style="text-align: right">   ------------------->> </div>
-Pour l'installer, téléchargez le fichier le plus récent dans la partie release (à droite)
+# <div style="text-align: right">------------------->></div>
+Pour l'installer, téléchargez le fichier le plus récent dans la partie release (à droite).
+
 C'est un exécutable d'installation habituel.
 # Modèle STI2D et Complément Prof STI2D
 Ceci est un ensemble de 2 outils qui permettent de faire des documents STI2D facilement.
