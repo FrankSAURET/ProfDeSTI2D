@@ -1,4 +1,4 @@
-Si besoin installer .net core "Exécution de bureau .NET 3.1.32" en téléchargement ici https://dotnet.microsoft.com/fr-fr/download/dotnet/3.1
+Si besoin, installer au préalable .net core "Exécution de bureau .NET 3.1.32" en téléchargement ici https://dotnet.microsoft.com/fr-fr/download/dotnet/3.1
 # <div style="text-align: right">------------------->></div>
 Pour l'installer, téléchargez le fichier le plus récent dans la partie release (à droite).
 
